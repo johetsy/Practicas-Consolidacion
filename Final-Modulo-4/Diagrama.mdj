@@ -1833,8 +1833,8 @@
 										"$ref": "AAAAAAGILKIjnsi3mbc="
 									},
 									"font": "Arial;13;0",
-									"left": 375,
-									"top": 440,
+									"left": 372,
+									"top": 401,
 									"width": 48.07080078125,
 									"height": 13,
 									"alpha": -4.094982741637116,
@@ -1856,8 +1856,8 @@
 									},
 									"visible": null,
 									"font": "Arial;13;0",
-									"left": 403,
-									"top": 419,
+									"left": 404,
+									"top": 382,
 									"height": 13,
 									"alpha": 1.5707963267948966,
 									"distance": 30,
@@ -1877,8 +1877,8 @@
 									},
 									"visible": false,
 									"font": "Arial;13;0",
-									"left": 447,
-									"top": 429,
+									"left": 445,
+									"top": 399,
 									"height": 13,
 									"alpha": -1.5707963267948966,
 									"distance": 15,
@@ -1896,7 +1896,7 @@
 								"$ref": "AAAAAAGIKsXxsGAA5Z0="
 							},
 							"lineStyle": 1,
-							"points": "425:471;442:393",
+							"points": "422:471;432:400;435:393",
 							"showVisibility": true,
 							"nameLabel": {
 								"$ref": "AAAAAAGILKIjn8i6gsU="
@@ -2046,7 +2046,8 @@
 							"_parent": {
 								"$ref": "AAAAAAGIKpx3qluIEjw="
 							},
-							"name": "tipo_vehiculo"
+							"name": "tipo_vehiculo",
+							"type": ""
 						}
 					],
 					"operations": [
